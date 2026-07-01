@@ -9,6 +9,7 @@ window.addEventListener('load', () => {
   }, 1800);
 });
 
+
 // ── CUSTOM CURSOR ──
 const dot = document.querySelector('.cursor-dot');
 const ring = document.querySelector('.cursor-ring');
